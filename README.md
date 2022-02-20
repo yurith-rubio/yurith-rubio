@@ -7,8 +7,9 @@
   
   Regarding my developing skills. I enjoy designing websites that are not only functional but also nice to the eye.
   
-  With my background as a designer, every details matter, from using a light gray color on the borders of an input to the well tought decision making of what color would be best to have on an CTA to drive more clicks. With my work, I like to have just the right balance between choosing good styling based on good UX knowledge.
-  My current works is shown on Shopify stores which you can go have a look at, but also a few Wordpress websites:
+  With my background as a designer, every detail matters, from using a light gray color on the borders of an input to the well tought out decision making of what color would be best to have on an CTA. With my work, I like to have just the right balance between choosing good styling based on good UX knowledge.
+  
+  Some of my current work is visible on the following sites:
   <ul>
     <li><a href="https://www.therapiedecken.de/">Therapiedecken</a></li>
     <li><a href="https://www.katzenrobo.de">Katzenrobo</a></li>
