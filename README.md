@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;" width="26px" align="left">
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;" width="26px" align="left">
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;" width="26px" align="left">
+<img alt="figma" src="https://camo.githubusercontent.com/f98090d7ddb420cc7a4d48a4d06037cad6b62f7327b8cab0373233a1fd6bcf15/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f7468756d62732f32782f6669676d612d312d6c6f676f2e706e67" data-canonical-src="https://cdn.freebiesupply.com/logos/thumbs/2x/figma-1-logo.png" style="max-width: 100%;" width="26px" align="left">
 </div>
