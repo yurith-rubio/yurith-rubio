@@ -15,6 +15,7 @@
     <li><a href="https://www.komfortkissen.de">Komfortkissen</a></li>
   </ul>
 </p>
+
 <div style="background-color: #f8f8f8">
 <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;" width="26px" align="left">
 <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;" width="26px" align="left">
