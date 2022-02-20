@@ -14,7 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Frontend Developer
 
+<p>
+  Thanks for showing interest.
+  I am a curious and creative Frontend Developer / UX Designer, a good friend and a passionate about healthy lifestyle.
+  Regarding my developing skills. I enjoy designing websites that are not only functional but also nice to the look. And that's it!: <b>nice to the look in every small detaill</b> is what most of the developers are not concerned at, as their drive and skills go more towards the technical part.
+  With my background as a designer, every details matter, from using a light gray color on the borders of an input to the well tought decision making of what color would be best to have on an CTA to drive more clicks. With my work, I like to have just the right balance between choosing good styling based on good UX knowledge.
+  My current works is shown on Shopify stores which you can go have a look at, but also a few Wordpress websites:
+  <ul>
+    <li><a href="https//:www.therapiedecken.de">Therapiedecken</a></li>
+    <li><a href="https//:www.katzenrobo.de">Katzenrobo</a></li>
+  </ul>
 <div style="background-color: #f8f8f8">
 <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;" width="26px" align="left">
 <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;" width="26px" align="left">
