@@ -13,6 +13,7 @@
     <li><a href="https://www.therapiedecken.de/">Therapiedecken</a></li>
     <li><a href="https://www.katzenrobo.de">Katzenrobo</a></li>
     <li><a href="https://www.komfortkissen.de">Komfortkissen</a></li>
+    <li><a href="https://www.ecommerceandmore.com">Ecommerceandmore</a></li>
   </ul>
 </p>
 
