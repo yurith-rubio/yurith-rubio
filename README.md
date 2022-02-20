@@ -23,8 +23,8 @@ Frontend Developer
   With my background as a designer, every details matter, from using a light gray color on the borders of an input to the well tought decision making of what color would be best to have on an CTA to drive more clicks. With my work, I like to have just the right balance between choosing good styling based on good UX knowledge.
   My current works is shown on Shopify stores which you can go have a look at, but also a few Wordpress websites:
   <ul>
-    <li><a href="https//:www.therapiedecken.de">Therapiedecken</a></li>
-    <li><a href="https//:www.katzenrobo.de">Katzenrobo</a></li>
+    <li><a href="https://www.therapiedecken.de/">Therapiedecken</a></li>
+    <li><a href="https://www.katzenrobo.de">Katzenrobo</a></li>
   </ul>
 <div style="background-color: #f8f8f8">
 <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;" width="26px" align="left">
