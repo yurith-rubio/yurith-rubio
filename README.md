@@ -9,6 +9,7 @@
   <ul>
     <li><a href="https://www.therapiedecken.de/">Therapiedecken</a></li>
     <li><a href="https://www.katzenrobo.de">Katzenrobo</a></li>
+    <li><a href="https://www.komforkissen.de">Katzenrobo</a></li>
   </ul>
 </p>
 <div style="background-color: #f8f8f8">
