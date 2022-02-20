@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-<p style="max-width: 800px">
+<p>
   Thanks for showing interest.
   I am a curious and creative Frontend Developer / UX Designer, a good friend and a passionate about healthy lifestyle.
   Regarding my developing skills. I enjoy designing websites that are not only functional but also nice to the look. And that's it!: <b>nice to the look in every small detaill</b> is what most of the developers are not concerned at, as their drive and skills go more towards the technical part.
