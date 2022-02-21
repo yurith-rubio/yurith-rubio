@@ -1,7 +1,7 @@
 ### Hola! 👋
 
 <p>
-  Thanks for showing interest.
+  <b>Thank you</b> for showing interest.
  
   I am a curious and creative Frontend Developer / UX Designer, a good friend and passionate about healthy lifestyle.
   
