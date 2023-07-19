@@ -15,6 +15,8 @@
     <li><a href="https://www.katzenrobo.de">Katzenrobo</a></li>
     <li><a href="https://www.komfortkissen.de">Komfortkissen</a></li>
     <li><a href="https://www.ecommerceandmore.com">Ecommerceandmore</a></li>
+    <li><a href="https://bettdrucke.de">Bettdrucke</a></li>
+    <li><a href="https://kuechenkompane.de">Küchenkompane</a></li>
   </ul>
 </p>
 
